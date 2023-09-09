@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300;400;500;600;700;800;900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    color: #1E1E1E;
+}
+
+.section-containter {
+    @apply max-w-[1440px] mx-auto px-6 sm:px-16
+}
+
+.head-text {
+    @apply text-3xl md:text-5xl font-semibold text-black1
+}
+
+.sub-text {
+    @apply text-base md:text-xl xl:text-2xl text-gray1
+}
+
+.btn {
+    @apply bg-primary text-white hover:bg-secondary hover:text-black1 rounded-[40px] p-3
+}
