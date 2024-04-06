@@ -1,0 +1,123 @@
+{
+  "items": [
+    [
+      {
+        "id": "001",
+        "image": "/images/1.webp",
+        "company": "Spykar",
+        "item_name": "Men Printed Round Neck Cotton Blend Yellow T-Shirt",
+        "original_price": 1599,
+        "current_price": 559,
+        "discount_percentage": 65,
+        "ideal_for": true,
+        "category": "T-shirts",
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "rating": { "stars": 4.5, "count": 1400 }
+      },
+      {
+        "id": "002",
+        "image": "/images/2.webp",
+        "company": "U.S. Polo Assn. Denim Co.",
+        "item_name": "Men Slim Fit Striped Cut Away Collar Casual Shirt",
+        "original_price": 2299,
+        "current_price": 1049,
+        "discount_percentage": 54,
+        "ideal_for": true,
+        "category": "Shirts",
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "rating": { "stars": 3.9, "count": 21 }
+      },
+      {
+        "id": "003",
+        "image": "/images/3.webp",
+        "company": "Levi's",
+        "item_name": "Men Tapered Fit Mid Rise Blue Jeans",
+        "original_price": 1499,
+        "current_price": 2999,
+        "discount_percentage": 50,
+        "ideal_for": true,
+        "category": "Jeans",
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "rating": { "stars": 3.9, "count": 82 }
+      },
+      {
+        "id": "004",
+        "image": "/images/4.avif",
+        "company": "Ivoc",
+        "item_name": "Printed Slim Fit Shirt Kurta",
+        "original_price": 703,
+        "current_price": 1899,
+        "discount_percentage": 63,
+        "ideal_for": true,
+        "category": "Kurtas",
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "rating": { "stars": 3.7, "count": 757 }
+      },
+      {
+        "id": "005",
+        "image": "/images/5.webp",
+        "company": "Van Heusen",
+        "item_name": "Men Slim Fit Green Cotton Blend Trousers",
+        "original_price": 2499,
+        "current_price": 1324,
+        "discount_percentage": 45,
+        "ideal_for": true,
+        "category": "Trousers",
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "rating": { "stars": 4, "count": 45 }
+      },
+      {
+        "id": "006",
+        "image": "/images/6.webp",
+        "company": "Metronaut",
+        "item_name": "Solid Men Dark Blue Track Pants",
+        "original_price": 443,
+        "current_price": 1399,
+        "discount_percentage": 68,
+        "ideal_for": true,
+        "category": "Track Pants",
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "rating": { "stars": 4.1, "count": 5549 }
+      },
+      {
+        "id": "007",
+        "image": "/images/7.webp",
+        "company": "J Turritopsis",
+        "item_name": "Women Boxy, Regular Fit Printed Lapel Collar Casual Shirt",
+        "original_price": 1199,
+        "current_price": 296,
+        "discount_percentage": 75,
+        "ideal_for": false,
+        "category": "Casual",
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "rating": { "stars": 4.1, "count": 1170 }
+      },
+      {
+        "id": "008",
+        "image": "/images/8.webp",
+        "company": "Klosia",
+        "item_name": "Women Viscose Rayon Kurta Pant Dupatta Set",
+        "original_price": 639,
+        "current_price": 2999,
+        "discount_percentage": 78,
+        "ideal_for": false,
+        "category": "Ethnic",
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "rating": { "stars": 4, "count": 935 }
+      },
+      {
+        "id": "009",
+        "image": "/images/9.webp",
+        "company": "Emeros",
+        "item_name": "Women Fit and Flare White Dress",
+        "original_price": 2199,
+        "current_price": 564,
+        "discount_percentage": 74,
+        "ideal_for": false,
+        "category": "Western",
+        "sizes": ["S", "M", "L", "XL", "XXL"],
+        "rating": { "stars": 3.9, "count": 419 }
+      }
+    ]
+  ]
+}
