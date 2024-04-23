@@ -8,6 +8,7 @@ import { fetchStatusActions } from '../store/fetchStatusSlice'
 import LoadingSpinner from '../components/LoadingSpinner'
 import { Link } from 'react-router-dom'
 import Wrapper from '../components/shared/Wrapper';
+import Categories from '../components/Categories';
 
 const Home = () => {
 
@@ -37,6 +38,7 @@ const Home = () => {
                     <img src='/images/woman-hero.svg ' className='w-[30%] h-fit' />
                 </div>
             </Wrapper>
+            <Categories />
         </>
 
     )

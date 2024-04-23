@@ -88,7 +88,7 @@
         "current_price": 296,
         "discount_percentage": 75,
         "ideal_for": false,
-        "category": "Casual",
+        "category": "Casuals",
         "sizes": ["S", "M", "L", "XL", "XXL"],
         "rating": { "stars": 4.1, "count": 1170 }
       },
@@ -101,7 +101,7 @@
         "current_price": 2999,
         "discount_percentage": 78,
         "ideal_for": false,
-        "category": "Ethnic",
+        "category": "Ethnic Wears",
         "sizes": ["S", "M", "L", "XL", "XXL"],
         "rating": { "stars": 4, "count": 935 }
       },
@@ -114,7 +114,7 @@
         "current_price": 564,
         "discount_percentage": 74,
         "ideal_for": false,
-        "category": "Western",
+        "category": "Western Wears",
         "sizes": ["S", "M", "L", "XL", "XXL"],
         "rating": { "stars": 3.9, "count": 419 }
       }
